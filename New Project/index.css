@@ -1,0 +1,39 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background: #37d3be;
+    margin:0px;
+}
+
+#h1-header{
+    text-align: center;
+    margin:0px;
+    background: rgb(5, 85, 204);
+    padding: 10px;
+}
+
+.nav-box{
+    justify-content: center;
+    display: flex;
+    margin:0px;
+    background:rgb(5, 69, 167);  
+    padding: 35px;
+}
+
+.nav-link {
+    margin-left:50px;
+    margin-right:50px;
+    padding: 20px;
+    color: black;
+    text-decoration: none;  
+}
+
+.text-box {
+    
+    text-align: center;
+    background: rgb(5, 85, 204);
+    border-radius: 15px;
+    padding: 5px;
+    margin :10px;
+    font-size: 20px;
+    
+}
