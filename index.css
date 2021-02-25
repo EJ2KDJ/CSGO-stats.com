@@ -11,6 +11,13 @@ body {
     padding: 10px;
 }
 
+#title-pistols{
+    text-align: center;
+    margin:0px;
+    background: rgb(5, 85, 204);
+    padding: 10px;
+}
+
 .nav-box{
     justify-content: center;
     display: flex;
