@@ -15,10 +15,11 @@ body {
     text-align: center;
     margin:0px;
     background: rgb(5, 85, 204);
-    padding: 10px;
+    padding: 10px
 }
 #Pistols-welcome{
-    
+    font-size: 15px;
+    text-align: center;
 }
 
 .nav-box{
